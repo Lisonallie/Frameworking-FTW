@@ -14,6 +14,6 @@ https://lisonallie.github.io/Frameworking-FTW/
 
 ### Easy
 - I used no CSS in this project and I am happy with the outcome. I really enjoyed making the layout and when I discovered how to use cards it became simple in general.
--Getting images into the cards and also laying a button on top was quite easy. I liked the preset buttons that were provided so everything can be done in HTML if you want.
+- Getting images into the cards and also laying a button on top was quite easy. I liked the preset buttons that were provided so everything can be done in HTML if you want.
 - Making the navbar itself was relatively easy; the use of `ul` and `li` elements and adding links was very straightforward and easy to code.
 - The initial setup of rows and columns was nicely organised and easy to work with. Having a skeleton essentially already ready for you on the page is a nice perk. You can customize it however you want and it's easy to do so.
